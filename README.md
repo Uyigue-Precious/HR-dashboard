@@ -30,6 +30,17 @@ EDA involved EXploring the sales data to answer key questions, such as
 Male = IF(ISBLANK( CALCULATE([HEAD_COUNT],HRData[Gender]="male")),0,( CALCULATE([HEAD_COUNT],HRData[Gender]="male")))
 ```
 
+```Switch DAX function
+atisfaction_Status = 
+SWITCH(
+    TRUE(),
+    HRData[EmployeeSatisfaction] = 1, "Very Low",
+    HRData[EmployeeSatisfaction] = 2, "Low",
+    HRData[EmployeeSatisfaction] = 3, "Accepted",
+    HRData[EmployeeSatisfaction] = 4, "High",
+    HRData[EmployeeSatisfaction] = 5, "Very High"
+)```
+
 
 
 
