@@ -1,3 +1,4 @@
 ## HR-dashboard
-## this is a HR dashboard which shows the headcount of the employee per year
-## salary of the various employee per department across various year
+### This project  aim to visualize the various factors a recuitment company recuit their employee. 
+### Providing insight on the performance of the various factors considered over the year.
+### Seeking trend and making data driven recomendation
