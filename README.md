@@ -16,4 +16,20 @@ HR Data: The Dataset used for this analysis is a "HRdata.cvs" cleaned file  from
   2. Cheched for missing value.
   3. No data cleaning because it came as a cleaned data
 
+### exploratory Data Analysis
+
+EDA involved EXploring the sales data to answer key questions, such as
+
+- What is the employee headcount per year, and how many are male or female?
+- How many of the employee contract was activated or terminated per year?
+- Which recuitment source do recuiters get their employee base on our dataset?
+
+### Data Analysis
+
+``` measures
+Male = IF(ISBLANK( CALCULATE([HEAD_COUNT],HRData[Gender]="male")),0,( CALCULATE([HEAD_COUNT],HRData[Gender]="male")))
+```
+
+
+
 
