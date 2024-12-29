@@ -21,8 +21,9 @@ HR Data: The Dataset used for this analysis is a "HRdata.cvs" cleaned file  from
 EDA involved EXploring the sales data to answer key questions, such as
 
 - What is the employee headcount per year, and how many are male or female?
-- How many of the employee contract was activated or terminated per year?
+- Which job position is in high demand?
 - Which recuitment source do recuiters get their employee base on our dataset?
+- Which hiring positing has the heighest salary?
 
 ### Data Analysis
 
@@ -41,6 +42,14 @@ SWITCH(
     HRData[EmployeeSatisfaction] = 5, "Very High"
 )```
 
+### Result/ Findings
+The analysis result are summarized as follow:
+The recuitment company have been recuiting over the years acrosss various department, with noticable demand for production officer, both  production technician1 and technician2 respectively.
+Indeed then linked are  the heightest recuitment source.
+
+### Recomendation
+Based on the analysis, we recommend the following action:
+Production technician is a l
 
 
 
