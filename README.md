@@ -72,6 +72,9 @@ Recruiters primarily source employees from Indeed and LinkedIn. Job seekers shou
 
 ### References
 
-YouTube [Simple HR Power BI Dashboard by abdelytics]
+YouTube (https://youtu.be/Z8ZvXrGEyAo?si=oJKNdR7l68-6v3NV)
+
+
+
 
 
