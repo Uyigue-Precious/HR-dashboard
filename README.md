@@ -6,8 +6,8 @@
 - [Tools](#Tools)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [exploratory Data Analysis](#exploratory-Data-Analysis)
-- [Data Analysis](#Data Analysis)
-- [Result/ Findings](#ResultFindings)
+- [Data Analysis](#Data-Analysis)
+- [Result/ Findings](#Result-Findings)
 - [Recommendations](#Recommendations)
 - [References](#References)
 
