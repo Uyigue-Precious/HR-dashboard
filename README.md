@@ -7,7 +7,7 @@
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [exploratory Data Analysis](#exploratory-Data-Analysis)
 - [Data Analysis](#Data-Analysis)
-- [Result and Findings](#result-and-findings)
+- [Result and Findings](#Result-and-Findings)
 - [Recommendations](#Recommendations)
 - [References](#References)
 
@@ -56,7 +56,9 @@ SWITCH(
     HRData[EmployeeSatisfaction] = 3, "Accepted",
     HRData[EmployeeSatisfaction] = 4, "High",
     HRData[EmployeeSatisfaction] = 5, "Very High"
-)```
+)
+```
+
 
 ### Result and Findings
 The analysis result are summarized as follow:
