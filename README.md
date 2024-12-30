@@ -5,6 +5,11 @@
 - [Data Sources](#Data-sources)
 - [Tools](#Tools)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [exploratory Data Analysis](#exploratory-Data-Analysis)
+- [Data Analysis](#Data Analysis)
+- [Result/ Findings](#ResultFindings)
+- [Recommendations](#Recommendations)
+- [References](#References)
 
 
 
