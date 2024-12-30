@@ -7,7 +7,7 @@
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [exploratory Data Analysis](#exploratory-Data-Analysis)
 - [Data Analysis](#Data-Analysis)
-- [Result/ Findings](#Result-Findings)
+- [Result and Findings](#Result-and-Findings)
 - [Recommendations](#Recommendations)
 - [References](#References)
 
@@ -58,7 +58,7 @@ SWITCH(
     HRData[EmployeeSatisfaction] = 5, "Very High"
 )```
 
-### Result/ Findings
+### Result and Findings
 The analysis result are summarized as follow:
 The recuitment company have been recuiting over the years acrosss various department, with noticable demand for production officer, both  production technician1 and technician2 respectively.
 Indeed then linked are  the heightest recuitment source.
