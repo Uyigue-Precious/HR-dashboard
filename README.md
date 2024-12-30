@@ -47,9 +47,13 @@ The analysis result are summarized as follow:
 The recuitment company have been recuiting over the years acrosss various department, with noticable demand for production officer, both  production technician1 and technician2 respectively.
 Indeed then linked are  the heightest recuitment source.
 
-### Recomendation
-Based on the analysis, we recommend the following action:
-Production technician is a l
+### Recommendations
 
+Production Technician roles are in high demand and should be considered by young adults or individuals seeking a career switch.
+Recruiters primarily source employees from Indeed and LinkedIn. Job seekers should optimize their profiles and actively engage on these platforms to increase visibility and opportunities.
+
+### References
+
+YouTube [Simple HR Power BI Dashboard by abdelytics]
 
 
