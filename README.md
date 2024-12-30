@@ -2,6 +2,8 @@
 ### Project Overview
 This project aims to analyze and visualize the various factors that a recruitment company considers when hiring employees. By providing insights into the performance of these factors over the years, the project seeks to identify trends and offer data-driven recommendations to enhance the recruitment process.
 
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/99ba05e0-940c-4c2a-b782-eb0e0d3a4ae8" />
+
 ### Data Sources
 HR Data: The Dataset used for this analysis is a "HRdata.cvs" cleaned file  from a youtube video, containing detailed information about various factors in recuitment process of a company.
 
