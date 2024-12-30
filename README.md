@@ -2,7 +2,7 @@
 
 ## Table of Content
 - [Project Overview](#Project-Overview)
-- [Data Sources](#Data-sourses)
+- [Data Sources](#Data-sources)
 - [Tools](#Tools)
 - [Data Cleaning/Preparation](#Data-cleaning&preparation)
 
@@ -20,7 +20,7 @@ HR Data: The Dataset used for this analysis is a "HRdata.cvs" cleaned file  from
 - PowerBI - Creating report
 - Power Query - Analysing the data
 
-  ### DAta Cleaning/Preparation
+  ### Data Cleaning/Preparation
   In the intinial data preparation phase, we performed the following task:
   1. Data loaing and inspection.
   2. Cheched for missing value.
